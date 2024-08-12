@@ -33,6 +33,7 @@ With extensive experience in full-stack development, I excel in both frontend an
 ![Franz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranssama&show_icons=true&theme=gruvbox)
 
 ---
+
 <details>
   <summary><h3>👨‍💻 Franz's Coding Journey</h3></summary>
   <p>I began my coding journey as an eager computer science student, driven by a passion to learn everything I could about the programming world starting from the basics. While teaching myself Java and Python with dreams of creating my own app, my focus soon shifted to mastering database systems alongside them. My aim is to become proficient as a full-stack developer and database analyst and to land a good software engineering job after graduation. Alongside my career aspirations, I’ve also been passionate about other things, like playing games and YouTube content creation/editing. Eventually, I made the decision to lessen the time I spent on these other passions to focus more on my career.
